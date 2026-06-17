@@ -1,0 +1,11 @@
+#pragma once
+#include "StrRev.h"
+#include "RotateArray.h"
+#include "RemoveDuplicates.h"
+#include "LongestCommonSubStr.h"
+#include "ArrShiftK.h"
+#include "SpiralMatrix.h"
+#include "LargestByConcatenation.h"
+#include "MajorityElement.h"
+#include "FindIsland.h"
+#include "FindWordBacktrack.h"
